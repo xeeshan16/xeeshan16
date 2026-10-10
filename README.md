@@ -5,7 +5,7 @@
 ### Lead Backend Engineer at ADCB · Payments, event streaming & agentic AI
 
 <a href="https://xeeshan16.github.io"><img alt="Portfolio: xeeshan16.github.io" src="https://img.shields.io/badge/Portfolio-xeeshan16.github.io-111827?style=for-the-badge&logo=astro&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/zeeshan-imdad"><img alt="LinkedIn: zeeshan-imdad" src="https://img.shields.io/badge/LinkedIn-zeeshan--imdad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/zeeshan-imdad"><img alt="LinkedIn: zeeshan-imdad" src="https://img.shields.io/badge/LinkedIn-zeeshan--imdad-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2EyLjA2MiAyLjA2MiAwIDEgMSAwLTQuMTI1IDIuMDYyIDIuMDYyIDAgMCAxIDAgNC4xMjV6TTcuMTE5IDIwLjQ1MkgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D"/></a>
 <a href="mailto:zeeshanimdad1614@gmail.com"><img alt="Email Zeeshan" src="https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://leetcode.com/u/zeeshan_16"><img alt="LeetCode: zeeshan_16" src="https://img.shields.io/badge/LeetCode-zeeshan__16-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 
@@ -56,8 +56,8 @@ Most of my production work is proprietary. Case studies with architecture diagra
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="165" alt="Zeeshan's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=xeeshan16&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
-  <img height="165" alt="Zeeshan's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xeeshan16&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+  <img height="165" alt="Zeeshan's GitHub stats" src="./profile/stats.svg" />
+  <img height="165" alt="Zeeshan's most used languages" src="./profile/top-langs.svg" />
 </p>
 
 ## 🏆 Certifications and recognition
