@@ -1,0 +1,11 @@
+[
+  {
+    "repo": "xeeshan16/mcp-warden",
+    "title": "MCP Warden: a policy, budget and audit gateway for AI agent tool calls",
+    "status": "proposed",
+    "proposed_on": "2026-10-10",
+    "start_date": null,
+    "end_date": null,
+    "summary": "Self-hosted MCP-aware gateway (Python/FastAPI, PostgreSQL) that sits between AI agents and MCP servers: per-agent keys, policy-as-code allow/deny, rate limits, call and token budgets, human approval for risky tools, metadata-only audit log, Prometheus/OpenTelemetry."
+  }
+]
