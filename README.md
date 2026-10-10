@@ -56,7 +56,6 @@ Most of my production work is proprietary. Case studies with architecture diagra
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="165" alt="Zeeshan's GitHub stats" src="./profile/stats.svg" />
   <img height="165" alt="Zeeshan's most used languages" src="./profile/top-langs.svg" />
 </p>
 
