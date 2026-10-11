@@ -66,12 +66,6 @@ Most of my production work is proprietary. Case studies with architecture diagra
 - 📨 **Confluent**: Apache Kafka Fundamentals
 - 🧠 **Competitive programming**: 1000+ problems solved on LeetCode and GeeksforGeeks · 2nd place regionally, ICPAC · 3rd place, HOWATHON 2022
 
-## 💬 Quote of the day
-
-<p align="center">
-  <img alt="A random programming quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-</p>
-
 <div align="center">
 
 **Open to senior backend and AI platform roles in the UAE, Europe, UK and New Zealand.**
