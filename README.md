@@ -32,6 +32,7 @@ Most of my production work is proprietary. Case studies with architecture diagra
 | --- | --- |
 | 💸 **[payment-simulator](https://github.com/xeeshan16/payment-simulator)** | Synthetic payment service in Go: idempotent transfers, double-entry ledger, transactional outbox to Kafka and an idempotent consumer with a dead-letter topic. Integration-tested against real Postgres. |
 | 🧰 **[devtools-hub](https://github.com/xeeshan16/devtools-hub)** | Privacy-first developer utilities (JSON, JWT, regex, cron, diff, token counter and more), all client-side. Next.js and TypeScript. [Live site](https://devtools-hub-sigma.vercel.app) |
+| 🔁 **[agent-replay](https://github.com/xeeshan16/agent-replay)** | Record, replay and regression-gate AI agent runs in Python: OpenTelemetry GenAI ingest into PostgreSQL, deterministic tool replay behind a side-effect sandbox, first-divergence diffs, layered scoring and a CI gate with confidence intervals. |
 | 🗂️ **[Portfolio](https://github.com/xeeshan16/xeeshan16.github.io)** | Astro site with case studies and architecture diagrams, deployed to GitHub Pages. |
 
 ## 🛠️ Tech stack
