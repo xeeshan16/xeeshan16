@@ -9,12 +9,12 @@
     "summary": "Self-hosted MCP gateway (Python/FastAPI, PostgreSQL) enforcing per-agent keys, policy-as-code, rate limits, budgets and human approval on agent tool calls, with a metadata-only audit log, metrics, tracing, Compose stack and threat model."
   },
   {
-    "repo": "xeeshan16/pkg-quarantine",
-    "title": "pkg-quarantine: a self-hosted release-cooldown and quarantine proxy for npm and PyPI",
+    "repo": "xeeshan16/decision-gate",
+    "title": "decision-gate: calibrated thresholds and human-in-the-loop routing for AI decision models",
     "status": "proposed",
     "proposed_on": "2026-10-25",
     "start_date": null,
     "end_date": null,
-    "summary": "Python/FastAPI + PostgreSQL registry proxy that hides package versions younger than a configurable cooldown, enforces an org-wide kill switch and time-boxed security bypasses, flags new npm install hooks and Python .pth payloads, audits every decision, and ships a lockfile checker for CI."
+    "summary": "Python/FastAPI + PostgreSQL service that wraps any AI decision backend, records decisions and later outcomes, fits per-question calibration, picks thresholds against an error budget with statistical bounds, routes each decision to auto, verify or human tiers, and detects calibration drift."
   }
 ]
