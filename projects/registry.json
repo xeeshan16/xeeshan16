@@ -7,5 +7,14 @@
     "start_date": "2026-10-11",
     "end_date": "2026-10-24",
     "summary": "Self-hosted MCP gateway (Python/FastAPI, PostgreSQL) enforcing per-agent keys, policy-as-code, rate limits, budgets and human approval on agent tool calls, with a metadata-only audit log, metrics, tracing, Compose stack and threat model."
+  },
+  {
+    "repo": "xeeshan16/pkg-quarantine",
+    "title": "pkg-quarantine: a self-hosted release-cooldown and quarantine proxy for npm and PyPI",
+    "status": "proposed",
+    "proposed_on": "2026-10-25",
+    "start_date": null,
+    "end_date": null,
+    "summary": "Python/FastAPI + PostgreSQL registry proxy that hides package versions younger than a configurable cooldown, enforces an org-wide kill switch and time-boxed security bypasses, flags new npm install hooks and Python .pth payloads, audits every decision, and ships a lockfile checker for CI."
   }
 ]
