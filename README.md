@@ -17,7 +17,6 @@ I build backend systems for payments, event streaming and agentic AI, and lead a
 
 Right now I own card and wallet payment services and a multi-agent AI Operations Copilot that on-call engineers use during live incidents. Before ADCB I built observability services at SolarWinds, banking integrations at Publicis Sapient, and a telemetry ingestion pipeline at Wipro.
 
-## 🚀 Selected work
 
 Most of my production work is proprietary. Case studies with architecture diagrams are on my **[portfolio](https://xeeshan16.github.io)**.
 
