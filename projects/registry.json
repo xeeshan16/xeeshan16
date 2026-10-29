@@ -11,9 +11,9 @@
   {
     "repo": "xeeshan16/decision-gate",
     "title": "decision-gate: calibrated thresholds and human-in-the-loop routing for AI decision models",
-    "status": "proposed",
+    "status": "active",
     "proposed_on": "2026-10-25",
-    "start_date": null,
+    "start_date": "2026-10-29",
     "end_date": null,
     "summary": "Python/FastAPI + PostgreSQL service that wraps any AI decision backend, records decisions and later outcomes, fits per-question calibration, picks thresholds against an error budget with statistical bounds, routes each decision to auto, verify or human tiers, and detects calibration drift."
   }
