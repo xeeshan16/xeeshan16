@@ -32,6 +32,7 @@ Most of my production work is proprietary. Case studies with architecture diagra
 | 🧰 **[devtools-hub](https://github.com/xeeshan16/devtools-hub)** | Privacy-first developer utilities (JSON, JWT, regex, cron, diff, token counter and more), all client-side. Next.js and TypeScript. [Live site](https://devtools-hub-sigma.vercel.app) |
 | 🔁 **[agent-replay](https://github.com/xeeshan16/agent-replay)** | Record, replay and regression-gate AI agent runs in Python: OpenTelemetry GenAI ingest into PostgreSQL, deterministic tool replay behind a side-effect sandbox, first-divergence diffs, layered scoring and a CI gate with confidence intervals. |
 | 🛡️ **[mcp-warden](https://github.com/xeeshan16/mcp-warden)** | Self-hosted policy, budget and audit gateway for AI agent tool calls over MCP, in Python/FastAPI: per-agent API keys, deny-overrides policy-as-code, rate limits and budgets on PostgreSQL, human approval for risky calls, metadata-only audit log, Prometheus and OpenTelemetry. |
+| 📨 **[kafka-llm-enricher](https://github.com/xeeshan16/kafka-llm-enricher)** | Exactly-once, budgeted LLM enrichment for Kafka streams on Spring Boot: a PostgreSQL result ledger so retries and replays never pay twice, schema-validated output, per-key ordering, rate limits, per-tenant cost caps, PII masking and dead-letter topics, with Micrometer and OpenTelemetry. |
 | 🗂️ **[Portfolio](https://github.com/xeeshan16/xeeshan16.github.io)** | Astro site with case studies and architecture diagrams, deployed to GitHub Pages. |
 
 ## 🛠️ Tech stack
