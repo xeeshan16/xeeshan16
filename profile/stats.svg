@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Zeeshan Imdad's GitHub Stats, Rank: C</title>
-        <desc id="descId">Total Stars Earned: 1, Total Commits  : 387, Total PRs: 3</desc>
+        <desc id="descId">Total Stars Earned: 1, Total Commits  : 396, Total PRs: 3</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 235.3657794951792;
+        stroke-dashoffset: 235.16657274950788;
       }
     }
   
@@ -166,7 +166,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >387</text>
+      >396</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
