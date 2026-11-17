@@ -18,12 +18,12 @@
     "summary": "Python/FastAPI + PostgreSQL gate for AI decision models: records decisions and outcomes, fits calibrators, selects thresholds that meet an error budget with statistical bounds, routes to auto/verify/human with a review queue, detects drift and compares shadow candidates, with a simulator, worker, Compose stack and end-to-end CI."
   },
   {
-    "repo": "xeeshan16/memory-ledger",
-    "title": "memory-ledger: a governed, versioned shared memory store for AI agents",
+    "repo": "xeeshan16/script-sentinel",
+    "title": "script-sentinel: self-hosted third-party script integrity monitoring and CSP reporting",
     "status": "proposed",
-    "proposed_on": "2026-11-12",
+    "proposed_on": "2026-11-17",
     "start_date": null,
     "end_date": null,
-    "summary": "Self-hosted Python/FastAPI + PostgreSQL service that gives coding and ops agents one shared, portable memory: scoped, versioned records with supersession and as-of reads, provenance and trust levels, write-time poisoning and secret screening with a quarantine queue, staleness via file-hash anchors and review dates, read receipts that show which memories reached which session, AGENTS.md/MCP-memory/Mem0 import and export, and an MCP server."
+    "summary": "Self-hosted Python/FastAPI + PostgreSQL service that inventories the scripts your own pages load, pins and versions their content hashes, flags unapproved changes with skimmer and wallet-swap heuristics, collects CSP violation reports at volume, suggests CSPs and SRI hashes, and exports PCI DSS 6.4.3/11.6.1-style evidence, with a scan worker, signed webhooks and a Compose stack."
   }
 ]
