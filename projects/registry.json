@@ -20,9 +20,9 @@
   {
     "repo": "xeeshan16/script-sentinel",
     "title": "script-sentinel: self-hosted third-party script integrity monitoring and CSP reporting",
-    "status": "proposed",
+    "status": "active",
     "proposed_on": "2026-11-17",
-    "start_date": null,
+    "start_date": "2026-11-21",
     "end_date": null,
     "summary": "Self-hosted Python/FastAPI + PostgreSQL service that inventories the scripts your own pages load, pins and versions their content hashes, flags unapproved changes with skimmer and wallet-swap heuristics, collects CSP violation reports at volume, suggests CSPs and SRI hashes, and exports PCI DSS 6.4.3/11.6.1-style evidence, with a scan worker, signed webhooks and a Compose stack."
   }
